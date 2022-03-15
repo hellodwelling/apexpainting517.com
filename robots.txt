@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://apexpainting517.com/sitemap.xml
